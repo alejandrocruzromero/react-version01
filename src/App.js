@@ -9,6 +9,7 @@ function App() {
         <h1>
           Punto de Venta Mamalon
         </h1>
+        <p>version uno !!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
